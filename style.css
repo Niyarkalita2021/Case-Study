@@ -1,0 +1,37 @@
+body {
+    font-family: 'MonteCarlo', cursive;
+background-color: darkred;
+}
+.header_div {
+    background-color: white;
+    color: black;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: pink;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid wheat;
+}
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera , #result{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+}
+.main_div button{
+    width: 300px;
+    height: 30px;
+    font-size: 15px;
+    box-shadow: 5px 5px 18px black;
+    border: 1px solid black;
+}
